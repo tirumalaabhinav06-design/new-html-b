@@ -1,0 +1,20 @@
+*{
+    background-color: aqua;
+    color: black;
+    font-style: italic;
+}
+h1 {
+    background-color:beige;
+    color: aquamarine;
+    
+
+}
+.my class {
+    color: chartreuse;
+}
+p{
+    background-color: rgb(60, 147, 141);
+}
+#a {
+    background-color: dodgerblue;
+}
